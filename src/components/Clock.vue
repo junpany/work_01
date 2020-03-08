@@ -93,7 +93,7 @@ export default {
   font-family: 'Roboto Mono', monospace;
   font-size: 3rem;
   line-height: 1;
-  background-color: #48b883;
+  background-color: #b84848;
   box-sizing: border-box;
 }
  
